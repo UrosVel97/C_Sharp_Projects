@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="CsvDataAccess/CsvDataAccess.csproj" />
+  <Project Path="StarWars_API/StarWars_API.csproj" Id="658ad802-e858-4063-9e22-93e0247a6323" />
 </Solution>
