@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="CsvDataAccess/CsvDataAccess.csproj" />
   <Project Path="Linked_List/Linked_List.csproj" Id="27e2b858-ab0e-48fd-970e-a6027ca0a7f8" />
+  <Project Path="NumericTypesSuggester/NumericTypesSuggester.csproj" Id="6ce25acd-d78c-4d4f-8e23-3717498a9d91" />
   <Project Path="StarWars_API/StarWars_API.csproj" Id="658ad802-e858-4063-9e22-93e0247a6323" />
   <Project Path="TicketsDataAggregator/TicketsDataAggregator.csproj" Id="6d45d5f0-6ec3-4259-9054-99c954272b0a" />
 </Solution>
