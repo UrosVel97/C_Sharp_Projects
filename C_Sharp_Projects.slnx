@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="CsvDataAccess/CsvDataAccess.csproj" />
+  <Project Path="DiceRollGameTests/DiceRollGameTests.csproj" Id="c8299f0b-32f9-4fd8-be3b-9a4baaf9ad80" />
+  <Project Path="DiceRollGameToBeTested/DiceRollGameToBeTested.csproj" Id="1d8b6176-2e33-4a72-8396-fcccceb77a2d" />
   <Project Path="FibonacciGenerator/FibonacciGenerator.csproj" Id="e082a50c-227d-4e11-a06f-df091f0554d0" />
   <Project Path="FibonacciGeneratorTests/FibonacciGeneratorTests.csproj" Id="cbd13a68-b8ca-4e14-b1c4-f703980b903b" />
   <Project Path="Linked_List/Linked_List.csproj" Id="27e2b858-ab0e-48fd-970e-a6027ca0a7f8" />
